@@ -15,6 +15,18 @@ The project is deployed on Heroku Cloud Platform.
 
 Deployment Link: [https://flaskapp-ai.herokuapp.com/](https://flaskapp-ai.herokuapp.com/)
 
+## Technologies Used
+1. Numpy, Pandas, Scikit-learn
+2. Natural Language Processing (NLP)
+3. Flask (For Web App)
+4. HTML5/CSS3 (For Frontend)
+5. Chart.js (Library for visualiztion on Web)
+
+## Novelty of the Project
+
+- Many projects involve the classification of tweets are hate speech, but here I used NLP and Machine Learning to detect racist tweets, which is a important issue in many parts around the globe.
+- The project has been tested all various classification models to get best result, and has not been copied from any sources.
+
 ## Screenshots
 
 #### Homepage
